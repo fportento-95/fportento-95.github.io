@@ -1,0 +1,15 @@
+h1 {
+  color:deeppink;
+}
+h2 {
+  color:darkblue;
+}
+p {
+  color:red;
+}
+li {
+  color:purple;
+}
+body {
+  background: url(../images/background-2.jpg) no-repeat fixed;
+}
